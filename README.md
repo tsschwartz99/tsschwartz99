@@ -1,3 +1,2 @@
-My name is Thomas Schwartzenburg and I am a Senior at Louisiana Tech University pursuing a dual degree in Mathematics and Computer Science.
-
+Graduate from Louisiana Tech University in Mathematics and Computer Science. Interests include Graph Theory, Cryptography, and Software Development.
 <!--- Comment --->
